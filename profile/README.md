@@ -21,11 +21,12 @@
 
 <h3>📱 Social:</h3>
 
- - Twitter: https://twitter.com/mpg_net
- - Facebook: https://www.facebook.com/MPGnet/
- - Twitch: https://www.twitch.tv/mpg_pro
- - Team Twitch: https://www.twitch.tv/team/mpg
- - Youtube: https://www.youtube.com/mpg_pro
- - Trovo: https://trovo.live/MPG_pro
- - Steam: https://steamcommunity.com/groups/mpgpro
- - Discord: https://discordapp.com/invite/yGqjJ5Q
+ - ⬛ X (Twitter): https://twitter.com/mpgamingdotpro
+ - 🟦 Bluesky: https://bsky.app/profile/mpgaming.pro
+ - 🟦 Facebook: https://www.facebook.com/mpgamingdotpro/
+ - 🟪 Twitch: https://www.twitch.tv/mpgamingdotpro
+ - 🟪 Team Twitch: https://www.twitch.tv/team/mpg
+ - 🟪 Discord: https://discordapp.com/invite/yGqjJ5Q
+ - 🟥 Youtube: https://www.youtube.com/mpgamingdotpro
+ - 🟩 Kick: https://kick.com/mpgamingdotpro
+ - 🟩 Trovo: https://trovo.live/mpgamingdotpro
