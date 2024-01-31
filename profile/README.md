@@ -27,6 +27,6 @@
  - 🟪 Twitch: https://www.twitch.tv/mpgamingdotpro
  - 🟪 Team Twitch: https://www.twitch.tv/team/mpg
  - 🟪 Discord: https://discordapp.com/invite/yGqjJ5Q
- - 🟥 Youtube: https://www.youtube.com/mpgamingdotpro
+ - 🟥 Youtube: https://www.youtube.com/@mpgamingdotpro
  - 🟩 Kick: https://kick.com/mpgamingdotpro
  - 🟩 Trovo: https://trovo.live/mpgamingdotpro
